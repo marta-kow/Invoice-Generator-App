@@ -2,8 +2,7 @@
 
 An application for small businesses to generate professional PDF invoices from a Word template and automatically store invoice records in a SQL database.
 
-<img width="512" height="639" alt="obraz" src="https://github.com/user-attachments/assets/06d0801e-fb02-425b-8e76-1088f083d022" />
-<img width="633" height="842" alt="obraz" src="https://github.com/user-attachments/assets/726b6865-0efb-418f-9104-df3643d99d1b" />
+<img width="512" height="639" alt="obraz" src="https://github.com/user-attachments/assets/06d0801e-fb02-425b-8e76-1088f083d022" /><img width="633" height="842" alt="obraz" src="https://github.com/user-attachments/assets/726b6865-0efb-418f-9104-df3643d99d1b" />
 
 ---
 
@@ -22,11 +21,11 @@ An application for small businesses to generate professional PDF invoices from a
 
 | Layer | Library |
 |---|---|
-| GUI | [CustomTkinter]|
-| Word templating | [python-docx]|
-| PDF conversion | [docx2pdf](https://github.com/AlJohri/docx2pdf)|
-| ORM / Database | [SQLAlchemy]|
-| Env variables | [python-dotenv]|
+| GUI | CustomTkinter|
+| Word templating | python-docx|
+| PDF conversion | docx2pdf|
+| ORM / Database | SQLAlchemy|
+| Env variables | python-dotenv|
 
 ---
 
